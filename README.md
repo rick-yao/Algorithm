@@ -2,7 +2,7 @@
 算法题练习记录博客（受到[yihong06018/gitblog](https://github.com/yihong0618/gitblog)启发），基于GitHub Action和GitHub Issue功能记录
 
 刷题进度：[![LeetCode](https://img.shields.io/github/issues/doragd/algorithm?style=flat&label=%F0%9F%8C%B8%20LeetCode%20Record&labelColor=%20%236DB9EF&color=%23FF90BC&link=https%3A%2F%2Fgithub.com%2Fdoragd%2Falgorithm
-)](https://github.com/doragd/algorithm)
+)](https://github.com/rick-yao/Algorithm)
 
 ## 🎄 How to Use
 
@@ -24,7 +24,7 @@
 |27|28|29|30|1|2|3|
 |4|5|6|7|8|9|10|
 |11|12|13|14|15|16|17|
-|18🌟|19|20|21|22|23|24|
+|18|19|20|21|22|23|24|
 |25|26|27|28|29|30|31|
 
 
@@ -32,5 +32,3 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|3|[再次测试](https://github.com/rick-yao/Algorithm/issues/3)||2023-12-18T08:30:13Z|
-
